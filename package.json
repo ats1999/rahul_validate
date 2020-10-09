@@ -1,0 +1,27 @@
+{
+  "name": "rahul-validate",
+  "version": "3.1.1",
+  "description": "Basics validation required by most of the apps.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ats1999/rahul_validate.git"
+  },
+  "keywords": [
+    "test",
+    "validate",
+    "npm",
+    "node",
+    "react",
+    "fullstack"
+  ],
+  "author": "Rahul",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ats1999/rahul_validate/issues"
+  },
+  "homepage": "https://github.com/Ats1999/rahul_validate#readme"
+}
